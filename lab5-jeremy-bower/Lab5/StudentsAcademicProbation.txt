@@ -1,0 +1,5 @@
+987654321,Billy,Bob,1.77
+222222222,Jane,Doe,0.0
+555555555,Faith,Mean,0.2
+444444444,Tinker,Bell,1.23
+222222222,John,Major,1.2
